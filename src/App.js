@@ -105,7 +105,7 @@ function App() {
 
   return (
     <div>
-      
+      <h1><center>Laboratorium 2 - Metody Inteligentnej Optymalizacji</center></h1>
       <form onSubmit={handleFormSubmit} id="form1" noValidate>
         <div class="input-group error">
           <label htmlFor="numRows">N:</label>
